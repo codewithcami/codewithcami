@@ -11,8 +11,10 @@ Cada repositório abriga a estrutura inicial de um projeto específico, destinad
 
 Se você encontrou valor nos recursos e tutoriais que compartilhei, por favor, me ajude a continuar criando conteúdos relevantes para a comunidade de tecnologia no Brasil.
 
-> Você pode contribuir através do Pix: 09709105418 - CPF 🗝️
+> Você pode contribuir através do Pix: 09709105418
 
 Sua generosidade é fundamental para o crescimento deste trabalho. Muito obrigado pelo seu apoio!
+
+Bons estudos para nós!
 
 
